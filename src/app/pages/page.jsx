@@ -58,7 +58,6 @@ function Home() {
     <main>
 
       <h1>Dating App</h1>
-
       {people[1] ? (
       <Person
        key={people[1].id}
